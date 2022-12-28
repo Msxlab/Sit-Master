@@ -1,0 +1,200 @@
+/* Menu Bolumu */
+
+    .logom{
+        width: 100px;
+    height: 100px;
+   
+    background-color: rgba(56, 39, 25, 0.937);
+ 
+   
+    }
+   
+    
+    .bas{
+        background-attachment: fixed;
+    }
+   
+.title{
+    padding: 41px;
+   color: rgb(140, 110, 70);
+}
+    .nav-item{
+    display: flex;
+     align-items: center;
+   
+        
+    }
+    .ayrac{
+        font-size: 20px;
+        margin: 0px 20px;
+        color: rgb(70, 48, 48);
+    }
+    .nv-bg{
+        background-color:rgba(255, 255, 255, 0);
+ 
+    }
+    .nv-bg {
+        margin-top: -7px;
+        background-color: white;
+    }
+  .nav-item a{
+      color: rgb(20, 2, 2);
+        font-size: 16px;
+        font-weight: bold;
+        padding: 8px;
+       
+    }
+    .nav-item a:hover{
+        color: rgb(187, 4, 4);
+          }
+          
+          @media screen and
+              
+           (max-width: 992px)  {
+              .ayrac{
+                  display: none;
+              }
+          }
+
+          .nav-item ,
+          .nav-link active:hover{
+              color: #30b286;;
+          }
+
+
+
+
+
+/* Slider Bolumu */
+.carousel-inner .img-fluid{
+    margin-top: 120px;
+    width: 100px;
+    height: 600px;
+}
+
+
+    /* Hedef sayfasi */
+   
+    
+   .img-fluid{
+    margin-top: 2.2rem;
+    margin-left: 25px;
+   }
+   
+   .card {
+   margin-top: 2rem;
+
+
+   }
+   .hrm{
+    border: 3px solid black ;
+    box-shadow: 5px 10px 15px 10px;
+    margin-top: 15px;
+
+   }
+   .baslik{
+    margin-top: 25px;
+   }
+ 
+    
+   
+    /*Footer Bolumu */
+    .footer{
+        background-color: yellowgreen;
+        height: 300px;
+        margin-top: 50px;
+        
+    }
+   
+    .under{
+        display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 110px;
+      color: rgb(249, 247, 247);
+      font-size: 20px;
+     
+    }
+ .par{
+   
+    margin-top: 3rem;
+ }
+
+ /*About Us */
+.container{
+    background-color:white;
+}
+ .about{
+    height: 300px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 3rem;
+ }
+ .hak{
+    text-align: center;
+    margin-top: 1rem;
+ }
+ .hakkimiz{
+    margin-top: 2.5rem;
+ }
+.hr{
+    border: 3px solid black ;
+    box-shadow: 5px 10px 15px 10px;
+    
+   
+}
+
+ /*Contact */
+.img-fluid .ifr{
+    width: 100%;
+    height: 500px;
+  
+   
+}
+
+.box{
+    display: flex;
+    width: 450px;
+    height: 100px;
+    background-color: yellow;
+    margin-top: 350px;
+    color: rgb(13, 22, 3);
+    justify-content: center;
+    align-items: center;
+ 
+}
+.pc{
+    text-align: center;
+    padding: 15px 10px 10px 10px ;
+    background-color: cornflowerblue;
+    margin-top: 5rem;
+}
+.ab{
+    margin: 30px;
+    border: 3px solid black ;
+box-shadow: 5px 10px 15px 10px;
+}
+.bas:hover{
+ color: rgb(94, 18, 216);
+    align-items: center;
+    cursor: pointer;
+    
+
+}
+.yer{
+    width: 350px;
+    height: 500px;
+}
+.cnt{
+    margin-top: 40px;
+    width: 400px;
+    height: 300px;
+}
+.kom{
+    margin-top: 10rem;
+    width: 80%;
+    height: 500px;
+}
+.kom-pr{
+    margin-top: 10rem;
+}
